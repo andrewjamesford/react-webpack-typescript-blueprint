@@ -19,7 +19,7 @@ $ npm i
 ```
 $ npm start
 ```
-- in your web browser navigate to `https://localhost:8443`
+- in your web browser navigate to `http://localhost:8080`
 
 ## What's in this repo
 
