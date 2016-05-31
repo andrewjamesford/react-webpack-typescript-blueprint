@@ -2,14 +2,18 @@ var webpack = require("webpack");
 
 module.exports = {
   entry: './app',
+  
   output: {
     path: './',
-    filename: 'app.dist.js',
+    filename: 'js/app.dist.js',
   },
+  
   devtool: '#source-map',
+  
   resolve: {
     extensions: ['', '.webpack.js', '.web.js', '.ts', '.tsx', '.js']
   },
+  
   module: {
     loaders: [
       {
@@ -32,6 +36,7 @@ module.exports = {
       }
     ]
   },
+  
   plugins: [
     new webpack.DefinePlugin({
       'process.env': {
