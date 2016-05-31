@@ -8,6 +8,7 @@ let App = React.createClass({
     return (
       <div>
         <h1>My React app</h1>
+        
       </div>
     );
   }
