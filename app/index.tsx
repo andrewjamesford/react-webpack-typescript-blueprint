@@ -1,7 +1,7 @@
 import * as React from 'react';
 import * as ReactDOM from 'react-dom';
 
-import '../css/styles.css';
+import '../scss/styles.scss';
 
 let App = React.createClass({
   render(): any {
