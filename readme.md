@@ -1,6 +1,6 @@
-# React web application with webpack with TypeScript blueprint
+# React web application blueprint with Webpack & TypeScript
 
-This repo contains a blueprint for building React web applications with webpack using TypeScript. Using this repo you can quickly get started and extend it with additional building blocks.
+This repo has a blueprint for building React web applications with Webpack using TypeScript. Using this repo you can quickly get started and extend it with more building blocks.
 
 ## Getting started
 
