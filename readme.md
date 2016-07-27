@@ -8,6 +8,7 @@ This repo has a blueprint for building React web applications with Webpack using
 - If you don't have typings installed, run in the command line
 ```
 $ npm i typings -g
+$ typings install dt~react --global --save
 $ typings install dt~react-dom --global --save
 ```
 - In the command line run
